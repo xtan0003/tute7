@@ -20,3 +20,5 @@ output:
     - \sectionfont{\color{olive}}
     - \usepackage{verbatim}
 ---
+
+# New section
